@@ -10,5 +10,4 @@
             "dest": "backend/wsgi.py",
         }
     ]
-
 }
